@@ -1,0 +1,77 @@
+.col-6{
+    margin-top: 100px;
+    padding-left: 45px;
+    padding-right: 45px;
+}
+.navbar{
+    padding-left: 100;
+    padding-right: 100;
+}
+button{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.btt{
+    background-color: orange;
+    width: 150px;
+    height: 50px;
+}
+.HHW{
+    padding-left: 25rem;
+    padding-right: 25rem;
+    margin-top: 150px;
+}
+.qq{
+    padding-left: 30rem;
+    padding-right: 30rem;
+    font-size: larger;
+}
+.row{
+    padding-left: 100px;
+    padding-right:100px;
+}
+.nn-lg{
+    padding-left: 33rem;
+    padding-right: 33rem;
+    font-size: large;
+    text-align: center;
+    display: flex;
+    
+   
+}
+.down{
+    padding-top: 100px;
+}
+.imme{
+    padding-top: 100px;
+}
+.hh2{
+    padding-top: 110px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
+.mkk{
+    padding-top: 100px;
+}
+.beging{
+    padding-top: 150px;
+    background-image: url(oval.png); opacity: 5;background-position: top !important;
+    
+}
+.btnn-lg{
+    background-color:rgba(255, 166, 0, 0.89);
+    width: 250px;   
+    height: 50px;
+    
+}
+.ppl{
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top:100px;
+}
+.coll{
+    padding-top: 45px;
+}
+.last-page{
+    padding-top: 150px;
+}
